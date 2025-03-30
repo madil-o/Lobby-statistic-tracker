@@ -3,9 +3,8 @@
 
 A python side-project to track statstics of users in your games.
 
-<p align="center">
-  <img width="700" src="![Image](https://github.com/user-attachments/assets/24e2e55f-8909-4cdf-a88b-fee89eef747c)" alt="Stat-Tracker">
-  <br>
+  ![Image](https://github.com/user-attachments/assets/24e2e55f-8909-4cdf-a88b-fee89eef747c)
+<p align="center">  
   Example of stat tracking in a bedwars game.
 </p>
 
